@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(299,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(300,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(347,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(348,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(349,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(351,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(352,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(353,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(395,127): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(395,124): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(395,121): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(425,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(425,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(425,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(425,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Source.cpp(440,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Trabajo Parcial.vcxproj -> C:\Naty\Universidad\Ciclo 6\Álgebra lineal\Trabajo Parcial\Trabajo Parcial\Debug\Trabajo Parcial.exe
